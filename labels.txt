@@ -1,0 +1,3 @@
+0 Ambulance
+1 Fire Truck
+2 Police
